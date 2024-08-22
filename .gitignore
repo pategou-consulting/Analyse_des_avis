@@ -1,0 +1,9 @@
+#Folder
+env
+__pycache__
+
+#file
+.env
+main_.py
+main2.py
+tools2.py
